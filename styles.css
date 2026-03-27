@@ -52,3 +52,28 @@ div {
 
 
 
+.b{
+    display: block;
+    background-color: pink;
+}
+
+.i{
+    /* display: inline; */
+    background-color: pink;
+}
+
+img{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    background-color: lightblue;
+    border: 5px solid gray;
+    margin: 20px;
+}
+
+
+
+
+
+
